@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678980079 source:d:\iti 3 months\day 1\day 7 task one complex class\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
